@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors
+An interactive rock paper scissors game where you choose either roc, paper, or scissors to play and the computer generates a random play back. It keeps track of your scores such as wins, losses, and ties until you reset the scoreboard. 
